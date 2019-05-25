@@ -8,4 +8,6 @@ public class Clase1 {
 		return "el valor de mivar2 es:"  + mivar2;
 	}
 	
+	///LINEAS INCLUIDAS EN EL PORTATIL
+	
 }
